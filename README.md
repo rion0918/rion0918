@@ -55,6 +55,25 @@ Technology × Creativity — シンプルで心地よい体験を。
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+  <!-- GitHub Profile Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rion0918&theme=algolia&column=6&margin-w=8&margin-h=8" alt="trophy" />
+  </a>
+
+  <!-- GitHub Streak（連続記録カード：任意） -->
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rion0918&hide_border=true&background=FFFFFF00&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak"/>
+  </a>
+
+  <br/>
+  <sub>公式のアチーブメント一覧は <a href="https://github.com/users/rion0918/achievements">こちら</a>。</sub>
+</div>
+
 ⭐️ _"Technology with Heart – こんなサービスが欲しかったと感じてもらえるように。"_
 
 ---
