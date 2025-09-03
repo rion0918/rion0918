@@ -10,7 +10,7 @@
 
 ---
 
-Technology × Creativity — シンプルで心地よい体験を。
+Technology × Creativity — ユーザードリブンな開発を心がける。
 
 </div>
 
