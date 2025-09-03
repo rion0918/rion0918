@@ -51,7 +51,7 @@ Technology × UserFast — ユーザードリブンな開発を心がける。
 
 | プロジェクト             | 概要                               | 技術                         |
 | ------------------------ | ---------------------------------- | ---------------------------- |
-| 👕 [AiSty](#)            | バーチャル試着アプリ          | Next.js, Supabase, Clerk, Fashn AI, Chakra UI   |
+| 👕 [AiSty](https://github.com/rion0918/Aisty.git)            | バーチャル試着アプリ          | Next.js, Supabase, Clerk, Fashn AI, Chakra UI   |
 | 📝 [ShittakaKeijiban](#) | 学生向け匿名掲示板                 | Next.js, NestJS, GraphQL, PostgreSQL  |
 | 📅 [Calendar Service](#) | オプション制カレンダーアプリ   | Next.js, Shadcn UI |
 | 🐱 [Rispinach](#) | 特定外来生物通報アプリ   | Kotlin,Jetpack Compose, Firebase |
