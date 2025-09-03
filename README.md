@@ -2,6 +2,8 @@
 
 # Rion Hashimoto
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3b82f6&width=435&lines=Web+Engineer+%7C+Next.js+%2B+NestJS+%7C+GraphQL%2FPrisma" alt="Typing SVG" />
+
 [![Followers](https://img.shields.io/github/followers/rion0918?label=Followers&style=flat&color=3b82f6)](https://github.com/rion0918?tab=followers)
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rion0918&title=Profile%20Views)](https://github.com/rion0918)
 [![X Follow](https://img.shields.io/twitter/follow/_rion0918?style=flat&color=0ea5e9&logo=x&logoColor=white&label=Follow)](https://twitter.com/_rion0918)
@@ -28,20 +30,40 @@ Technology × Creativity — シンプルで心地よい体験を。
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,nestjs,go,html,css,scss,kotlin,python,graphql,postgres,supabase,firebase,vercel,chakraui,shadcn&perline=9" />
 </p>
 
+<p align="center">
+  <a href="https://shields.io/category/methodology" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Methodology-Atomic%20Design-4caf50?style=flat&logo=figma&logoColor=white" alt="Atomic Design" />
+  </a>
+  <a href="https://shields.io/category/methodology" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Methodology-Clean%20Architecture-2196f3?style=flat&logo=architecture&logoColor=white" alt="Clean Architecture" />
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Deploy Vercel" />
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Deploy-Render-20c997?style=flat&logo=render&logoColor=white" alt="Deploy Render" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CI-CD-GitHub%20Actions-2088ff?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  </a>
+</p>
+
 ---
 
 ## ✨ Projects
 
-- 👕 [AiSty](#): バーチャル試着 Web アプリ
-- 📝 [ShittakaKeijiban](#): 学生向け匿名掲示板
-- 📅 [Calendar Service](#): 複数カレンダー共有プラットフォーム
+| プロジェクト             | 概要                               | 技術                         |
+| ------------------------ | ---------------------------------- | ---------------------------- |
+| 👕 [AiSty](#)            | バーチャル試着 Web アプリ          | Next.js, React, Firebase     |
+| 📝 [ShittakaKeijiban](#) | 学生向け匿名掲示板                 | NestJS, GraphQL, PostgreSQL  |
+| 📅 [Calendar Service](#) | 複数カレンダー共有プラットフォーム | Next.js, Supabase, Chakra UI |
 
 ---
 
 ## 📫 Connect with Me
 
 - 💼 [Qiita](#)
-- 🐦 [X(旧Twitter)](#)
+- 🐦 [X(旧 Twitter)](#)
 - 🌐 [ポートフォリオ](#)
 
 ---
@@ -64,17 +86,23 @@ Technology × Creativity — シンプルで心地よい体験を。
     <img src="https://github-profile-trophy.vercel.app/?username=rion0918&theme=algolia&column=6&margin-w=8&margin-h=8" alt="trophy" />
   </a>
 
+<br/><br/>
+
   <!-- GitHub Streak（連続記録カード：任意） -->
-  <br/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=rion0918&hide_border=true&background=FFFFFF00&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak"/>
   </a>
 
-  <br/>
-  <sub>公式のアチーブメント一覧は <a href="https://github.com/users/rion0918/achievements">こちら</a>。</sub>
+<br/><br/>
+<sub>公式のアチーブメント一覧は <a href="https://github.com/users/rion0918/achievements">こちら</a>。</sub>
+
 </div>
 
-⭐️ _"Technology with Heart – こんなサービスが欲しかったと感じてもらえるように。"_
+---
+
+<div align="center">
+  <em>⭐️ _"Technology with Heart – こんなサービスが欲しかったと感じてもらえるように。"_</em>
+</div>
 
 ---
 
