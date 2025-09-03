@@ -107,5 +107,5 @@ Technology × UserFast — ユーザードリブンな開発を心がける。
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rion0918/rion0918/output/github-snake.svg" width="80%" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/rion0918/rion0918/blob/output/github-snake.svg?raw=1" width="80%" alt="GitHub Contribution Snake" />
 </div>
