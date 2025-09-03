@@ -2,7 +2,7 @@
 
 # Rion Hashimoto
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3b82f6&width=435&lines=Web+Engineer+%7C+Next.js+%2B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3b82f6&width=435&lines=Web+Engineer+%7C+Next.js" alt="Typing SVG" />
 
 [![Followers](https://img.shields.io/github/followers/rion0918?label=Followers&style=flat&color=3b82f6)](https://github.com/rion0918?tab=followers)
 [![X Follow](https://img.shields.io/twitter/follow/_rion0918?style=flat&color=0ea5e9&logo=x&logoColor=white&label=Follow)](https://x.com/rioi7_0918?s=21)
