@@ -17,16 +17,16 @@ I love building products that blend **technology × creativity**.
 ## 🚀 About Me
 
 - 🎓 神戸電子専門学校
-- 💻 **Web 開発・AI・クリエイティブアプリ** に情熱
-- 🌱 **Next.js, NestJS, GraphQL, Prisma** を学習中
-- 🎮 ゲーム & コミュニティ主催 | ファッション・デザイン好き
+- 💻 **Web 開発** に情熱
+- 🌱 **Next.js** が好きです！
+- 🎮 学生交流コミュニティを設立・運営
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,go,kotlin,cpp,react,nextjs,tailwind,graphql,nestjs,express,grpc,postgres,supabase,docker,vercel,firebase,sqlite,shadcn" />
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,nestjs,go,html,css,scss,kotlin,python,graphql,grpc,postgres,supabase,firebase,vercel,chakraui,shadcn" />
 </p>
 
 ---
