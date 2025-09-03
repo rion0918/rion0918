@@ -25,7 +25,7 @@ Technology × Creativity — シンプルで心地よい体験を。
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,nestjs,go,html,css,scss,kotlin,python,graphql,grpc,postgres,supabase,firebase,vercel,chakraui,shadcn&perline=9" />
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,nestjs,go,html,css,scss,kotlin,python,graphql,postgres,supabase,firebase,vercel,chakraui,shadcn&perline=9" />
 </p>
 
 ---
