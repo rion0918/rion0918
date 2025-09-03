@@ -88,7 +88,7 @@ Technology × UserFast — ユーザードリブンな開発を心がける。
 
   <!-- GitHub Streak（連続記録カード：任意） -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rion0918&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=rion0918&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak"/>
   </a>
 
 <br/><br/>
