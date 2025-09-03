@@ -42,9 +42,6 @@ Technology × Creativity — シンプルで心地よい体験を。
   <a href="https://render.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Deploy-Render-20c997?style=flat&logo=render&logoColor=white" alt="Deploy Render" />
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CI-CD-GitHub%20Actions-2088ff?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  </a>
 </p>
 
 ---
@@ -53,9 +50,9 @@ Technology × Creativity — シンプルで心地よい体験を。
 
 | プロジェクト             | 概要                               | 技術                         |
 | ------------------------ | ---------------------------------- | ---------------------------- |
-| 👕 [AiSty](#)            | バーチャル試着 Web アプリ          | Next.js, React, Firebase     |
-| 📝 [ShittakaKeijiban](#) | 学生向け匿名掲示板                 | NestJS, GraphQL, PostgreSQL  |
-| 📅 [Calendar Service](#) | 複数カレンダー共有プラットフォーム | Next.js, Supabase, Chakra UI |
+| 👕 [AiSty](#)            | バーチャル試着アプリ          | Next.js, Supabase, Clerk, Fashn AI, Chakra UI   |
+| 📝 [ShittakaKeijiban](#) | 学生向け匿名掲示板                 | Next.js, NestJS, GraphQL, PostgreSQL  |
+| 📅 [Calendar Service](#) | オプション制カレンダーアプリ   | Next.js, Shadcn UI |
 
 ---
 
