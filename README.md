@@ -61,7 +61,7 @@ Technology × Creativity — シンプルで心地よい体験を。
 ## 📫 Connect with Me
 
 - 💼 [Qiita](#)
-- 🐦 [X(旧 Twitter)](#)
+- 🐦 [X(旧 Twitter)](https://x.com/rioi7_0918?s=21)
 - 🌐 [ポートフォリオ](#)
 
 ---
