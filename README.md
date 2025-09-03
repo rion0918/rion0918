@@ -10,7 +10,7 @@
 
 ---
 
-Technology × Creativity — ユーザードリブンな開発を心がける。
+Technology × UserFast — ユーザードリブンな開発を心がける。
 
 </div>
 
