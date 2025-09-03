@@ -60,7 +60,7 @@ Technology × Creativity — シンプルで心地よい体験を。
 
 ## 📫 Connect with Me
 
-- 💼 [Qiita](#)
+- 💼 [Qiita](https://qiita.com/Kao0918)
 - 🐦 [X(旧 Twitter)](https://x.com/rioi7_0918?s=21)
 - 🌐 [ポートフォリオ](#)
 
