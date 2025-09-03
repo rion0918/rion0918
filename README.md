@@ -62,7 +62,7 @@ Technology × Creativity — シンプルで心地よい体験を。
 
 - 💼 [Qiita(キータ)](https://qiita.com/Kao0918)
 - 🐦 [X(旧 Twitter)](https://x.com/rioi7_0918?s=21)
-- 🌐 [ポートフォリオ](#)
+- 🌐 [ポートフォリオ](https://bento.me/rio-messi)
 
 ---
 
