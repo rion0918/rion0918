@@ -32,6 +32,7 @@ Technology × UserFast
     <img src="https://img.shields.io/badge/AiSty👕-Visit-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+---
 
 ## 🚀 About Me
 
