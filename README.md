@@ -26,6 +26,13 @@ Technology × UserFast
 
 </div>
 
+### 📌 Featured Product
+<p align="center">
+  <a href="https://aisty-phi.vercel.app/">
+    <img src="https://img.shields.io/badge/AiSty👕-Visit-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ## 🚀 About Me
 
 - 🎓 神戸電子専門学校 ITエキスパート学科AI専攻
