@@ -2,15 +2,23 @@
 
 # Rion Hashimoto
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3b82f6&width=435&lines=Web+Engineer+%7C+Next.js" alt="Typing SVG" />
+<!-- タイピングアニメーション -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3b82f6&width=435&lines=Web+Engineer+%7C+Next.js;Building+AiSty+%F0%9F%91%95;Learning+Go+%26+Prisma" alt="Typing SVG" />
+</p>
 
-[![Followers](https://img.shields.io/github/followers/rion0918?label=Followers&style=flat&color=3b82f6)](https://github.com/rion0918?tab=followers)
-[![X Follow](https://img.shields.io/twitter/follow/_rion0918?style=flat&color=0ea5e9&logo=x&logoColor=white&label=Follow)](https://x.com/rioi7_0918?s=21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Open-6366f1?style=flat&logo=vercel&logoColor=white)](https://bento.me/rio-messi)
-
-</div>
-
-Best My Product AiSty👕(https://aisty-phi.vercel.app/)
+<!-- バッジ類 -->
+<p align="center">
+  <a href="https://github.com/rion0918?tab=followers">
+    <img src="https://img.shields.io/github/followers/rion0918?label=Followers&style=flat&color=3b82f6" />
+  </a>
+  <a href="https://x.com/rioi7_0918?s=21">
+    <img src="https://img.shields.io/twitter/follow/_rion0918?style=flat&color=0ea5e9&logo=x&logoColor=white&label=Follow" />
+  </a>
+  <a href="https://bento.me/rio-messi">
+    <img src="https://img.shields.io/badge/Portfolio-Open-6366f1?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
