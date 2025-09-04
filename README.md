@@ -10,7 +10,7 @@
 
 ---
 
-Technology × UserFast — ユーザードリブンな開発を心がける。
+Technology × UserFast
 
 </div>
 
