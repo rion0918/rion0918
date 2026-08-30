@@ -6,7 +6,6 @@ Building simple, useful products with TypeScript and Next.js.
 
 TypeScript / Next.jsを中心に、使う人の課題に向き合うWebプロダクトを開発しています。
 
-個人開発ではモバイルアプリにも取り組んでいます。
 
 ## Selected Work
 
